@@ -65,12 +65,27 @@ infrastructure libraries (Python)
 
 ----
 
+Natural language processing
+---------------------------
+- spacy.io
+- the venerable NLTK
+- OpenFST
+- [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
+
+Machine learning
+----------------
+- scikit-learn
+- TensorFlow
+- sputnik (for model management, via spacy.io)
+
 computation frameworks
 ----------------------
 - pandas  (see Augspurger book)
-- dask
+- [dask](dask.pydata.org)
 - TensorFlow
 - multiprocessor ipython
+- Hadoop
+- DataFlow
 
 Twitterbot tools
 ----------------
@@ -102,3 +117,10 @@ Papers - workflow
 - Zotero
 - hypothes.is and pypothesis
 - other ways to keep a queue?
+
+----
+
+To-do:
+
+- consider breaking these into page subfolders or putting them
+  into posts and updating the permalink structure.
