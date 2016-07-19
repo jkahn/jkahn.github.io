@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Things I'd like to review"
+date:   2016-07-19 10:30:00 -0700
+categories: wishlist
+---
+
+I have a bunch of things I'd like to write up reviews for. This page
+puts some of them in writing, even if as weak promissory notes
+
+"Hard" SF
+---------
+
+- The *Ancillary* trilogy
+
+- *The Midas Flesh*
+
+- *Finder: Third World*
+
+- *The Expanse* and how I owe Emily F. an apology
+
+
+Uncomfortable almost-fiction about the almost-present
+-----------------------------------------------------
+
+- *The Drowned World*
+
+- *Distrust That Particular Flavor* and *The Peripheral* (and their
+   relationship to `git log --graph`).
+
+- *Transmetropolitan* and 2016
+
+Fantasy
+-------
+
+- *Uprooted*
+
+- *The Fifth Season*, *Anvil of the World*, and *Throne of the Crescent Moon*

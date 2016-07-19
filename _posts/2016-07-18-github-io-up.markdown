@@ -2,7 +2,7 @@
 layout: post
 title:  "Github IO page up"
 date:   2016-07-18 12:22:32 -0700
-categories: Bringing up the Github IO page.
+categories: housekeeping
 ---
 
 I'm planning to use the Github IO pages to maintain some projects that

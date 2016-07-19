@@ -120,7 +120,8 @@ Papers - workflow
 
 ----
 
-To-do:
+To-do
+-----
 
 - consider breaking these into page subfolders or putting them
   into posts and updating the permalink structure.
