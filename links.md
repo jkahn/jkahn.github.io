@@ -53,6 +53,7 @@ developer tools (Python)
 scientific notebooks (Python, R)
 --------------------------------
 - jupyter
+- jupyter lab
 - notedown
 - mybinder.org
 - R vignettes
@@ -67,6 +68,7 @@ infrastructure libraries (Python)
 
 Natural language processing
 ---------------------------
+- ftfy -- Unicode fixes.
 - spacy.io
 - the venerable NLTK
 - OpenFST
