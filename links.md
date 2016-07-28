@@ -97,6 +97,7 @@ computation frameworks
 - multiprocessor ipython
 - Hadoop
 - DataFlow
+- parse.ly/streamparse
 
 Twitterbot tools
 ----------------
