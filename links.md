@@ -31,7 +31,7 @@ Data serialization
 Packaging & ci (Python)
 -----------------------
 
-- cookiecutter-pypackage
+- cookiecutter, and -pylibrary vs -pypackage
 - sphinx and .rst
 - changes
 - pip and/vs conda
@@ -40,8 +40,14 @@ CI workflow (mostly Python)
 ---------------------------
 - travis-ci
 - readthedocs.io
-- pyup
-- coverio
+- pyup and/or requiresio
+- coverio and coveralls
+- appveyor
+- See also (to explore):
+  - landscape
+  - scrutinizer
+  - codacy
+  - codeclimate
 
 developer tools (Python)
 ------------------------
@@ -49,6 +55,9 @@ developer tools (Python)
 - newest Jupyter environment
 - rodeo via yhat
 - pycharm
+- editorconfig (installing for emacs)
+- emacs (and [installing packages for
+  emacs](https://www.emacswiki.org/emacs/InstallingPackages))
 
 scientific notebooks (Python, R)
 --------------------------------
