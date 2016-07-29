@@ -23,8 +23,6 @@ Data serialization
 - capnproto
 - paratext (via wisc.io, not the other one)
 - Avro
-- (Pandas)
-- (Dask)
 
 ----
 
@@ -58,6 +56,8 @@ developer tools (Python)
 - editorconfig (installing for emacs)
 - emacs (and [installing packages for
   emacs](https://www.emacswiki.org/emacs/InstallingPackages))
+- IPython
+
 
 scientific notebooks (Python, R)
 --------------------------------
@@ -80,18 +80,31 @@ Natural language processing
 - ftfy -- Unicode fixes.
 - spacy.io
 - the venerable NLTK
-- OpenFST
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
+
+(to explore:)
+
+- [Sentiment analysis kits]({% post_url 2016-07-29-sentiment-tools %})
+- Scrapy
+- Pattern
+- OpenFST
 
 Machine learning
 ----------------
 - scikit-learn
+- Theano
 - TensorFlow
 - sputnik (for model management, via spacy.io)
+- STAN (and pystan)
+
+Scientific computing with Python
+--------------------------------
+- Pandas (see Augspurger book)
+- Scipy
+- Numpy
 
 computation frameworks
 ----------------------
-- pandas  (see Augspurger book)
 - [dask](dask.pydata.org)
 - TensorFlow
 - multiprocessor ipython
@@ -110,6 +123,11 @@ Visualization (from Python)
 - bokeh
 - seaborn
 - see my own blog post
+
+(see also):
+
+- Basemap, Folium (for mapping)
+- NetworkX (for graphs).
 
 ----
 
